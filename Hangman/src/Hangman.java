@@ -1,3 +1,5 @@
+// Raphael landre Borlongan. Hangman
+
 import javafx.application.*;
 import javafx.scene.control.*;
 import javafx.stage.*;
